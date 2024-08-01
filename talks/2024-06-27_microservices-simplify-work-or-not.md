@@ -34,7 +34,7 @@ Shared database between microservices: who owns it?
 
 **Ideal** microservices: isolated; persistence is also isolated
 
-Documentation required on how the system works for newcomers (compared to an easier onboarding to a monolith project)
+Documentation required on how the system works for newcomers (compared to easier onboarding to a monolith project)
 
 Database triggers / procedures: good or bad? Seems to hard to maintain / migrate
 
